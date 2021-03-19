@@ -1,0 +1,22 @@
+.flex_item {
+  padding:10px;
+  margin: 10px;
+  border-radius: 15px;
+  background-color: orange;
+  color: white;
+  text-align: center;
+}
+.flex {
+  display: flex;
+  padding: 50px;
+  margin: 20px;
+}
+#column {
+  flex-direction: column;
+  background-color: #E6F5FF;
+}
+#row {
+  flex-direction: row;
+  background-color: #FFF7DE;
+}
+ 
